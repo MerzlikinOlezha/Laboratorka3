@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IndZadanie2/1.0.0": {
+        "runtime": {
+          "IndZadanie2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndZadanie2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\bin\Debug\net5.0\IndZadanie2.exe
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\bin\Debug\net5.0\IndZadanie2.deps.json
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\bin\Debug\net5.0\IndZadanie2.runtimeconfig.json
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\bin\Debug\net5.0\IndZadanie2.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\bin\Debug\net5.0\IndZadanie2.dll
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\bin\Debug\net5.0\ref\IndZadanie2.dll
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\bin\Debug\net5.0\IndZadanie2.pdb
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\IndZadanie2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\IndZadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\IndZadanie2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\IndZadanie2.AssemblyInfo.cs
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\IndZadanie2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\IndZadanie2.dll
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\ref\IndZadanie2.dll
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\IndZadanie2.pdb
+C:\Users\admin\Desktop\Laba 3\IndZadanie2\obj\Debug\net5.0\IndZadanie2.genruntimeconfig.cache
