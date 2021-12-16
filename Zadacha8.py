@@ -1,4 +1,3 @@
-# 8 Задание Готово(выполнено по заданию)
 def determinant(matrix, mul):
     br = len(matrix)
     if br == 1:
