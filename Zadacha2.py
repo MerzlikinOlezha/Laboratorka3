@@ -1,4 +1,3 @@
-# 2 Задание Готово(выполнено по заданию)
 import numpy
 a = [[col for col in range(7)] for row in range(7)]
 for i in a:
