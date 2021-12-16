@@ -14,9 +14,3 @@ def view(mas):
 mas = [random.randint(-30, 45) for i in range(0, 75)]
 view(mas)
 print('Числа больше 0:', plus)
-
-
-
-
-
-
