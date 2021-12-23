@@ -9,17 +9,17 @@ namespace ConsoleApplication6
             Random rand = new Random();
             int[,] matrix = new int[9, 9];
 
-            for (int i = 0; i < 9; i++) // эти циклы для заполнения массива
+            for (int i = 0; i < 9; i++)
                 for (int j = 0; j < 9; j++)
-                    matrix[i, j] = rand.Next(10, 100); //заполняем массив числами от 10 до 99 (100 не включается)
+                    matrix[i, j] = rand.Next(10, 100);
 
-            for (int i = 0; i < 9; i++) // цикл для вывода матрицы
+            for (int i = 0; i < 9; i++)
             {
                 for (int j = 0; j < 9; j++)
                 {
-                    if (i - j <= 0 && j + i < 9 && i < 5) // условие, чтобы откинуть элемент, попадающий в верхний треугольник
+                    if (i - j <= 0 && j + i < 9 && i < 5)
                         Console.Write("   ");
-                    else if (j + i > 7 && j <= i && i >= 5) // условие, чтобы откинуть элемент, попадающий в нижний треугольник
+                    else if (j + i > 7 && j <= i && i >= 5)
                         Console.Write("   ");
                     else
                         Console.Write(matrix[i, j] + " ");
